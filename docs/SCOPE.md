@@ -1,0 +1,1 @@
+#This repo covers all arcs of the Covenant Pathway Series, but you can start with Arc I – The Foundations (K–2).  Mention that additional arcs (The Journey, Wisdom, Doctrine & Mastery) will be added in future releases.
