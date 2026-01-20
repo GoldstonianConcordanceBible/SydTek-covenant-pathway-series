@@ -1,0 +1,1 @@
+#Summarise the Goldstonian Doctrine (Mirror → Water → Fire; Covenant as legal love; Be the Shepherd; Justice/Mercy balance).  This rule card ensures LLMs are consistent when generating lesson content.
