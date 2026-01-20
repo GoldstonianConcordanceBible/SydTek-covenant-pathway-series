@@ -1,0 +1,1 @@
+#Adapt the GCB interfaith rules: explain how to describe Judaism, Islam, and other faiths accurately and respectfully when comparing with Christian beliefs.
