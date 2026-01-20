@@ -1,2 +1,2 @@
 # SydTek-covenant-pathway-series
-Covenant Pathway Series — machine‑readable K–12 homeschool curriculum rooted in the Goldstonian Doctrine. Includes series manifest, controlled tags, retrieval cues, claims, rule cards, templates, art prompts, and module registry.
+Explain the repo and its structure.  Include core rules: ground claims in scripture, don’t fabricate references, declare default translation policy (references_only).  Link to the series manifest and module registry.
