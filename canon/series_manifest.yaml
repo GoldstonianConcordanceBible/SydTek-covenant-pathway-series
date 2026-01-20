@@ -1,1 +1,74 @@
-Defines the overall series: series name, author (Justin Goldston), version, translation policy, grade bands, arcs, and the book/lesson list. 
+#Defines the overall series: series name, author (Justin Goldston), version, translation policy, grade bands, arcs, and the book/lesson list. 
+series:
+  name: "Covenant Pathway Series"
+  author: "Justin Goldston"
+  version: "v1.0"
+  translation_policy: "references_only"
+  description: >
+    A Judeo‑Christian homeschool curriculum designed to guide children on a lifelong journey of faith,
+    identity, purpose, and biblical literacy [oai_citation:1‡amazon.com.mx](https://www.amazon.com.mx/The-Covenant-Pathway-Series/dp/B0G678BG54#:~:text=The%20Covenant%20Pathway%20Series%20,journey%20of%20faith%2C%20identity%2C).
+
+grade_bands:
+  - band_id: "K2"
+    name: "Foundations"
+    description: "Basics of God, creation, identity, Scripture, early literacy and numeracy."
+  - band_id: "35"
+    name: "Formation"
+    description: "Narrative, consequence, purpose and faith (Grades 3–5)."
+  - band_id: "68"
+    name: "Wisdom"
+    description: "Developing discernment, logic, Hebrew reading and deeper science (Grades 6–8)."
+  - band_id: "912"
+    name: "Doctrine & Mastery"
+    description: "Advanced Torah interpretation, philosophy and vocational preparation (Grades 9–12)."
+
+arcs:
+  - arc_id: "ARC1"
+    name: "The Foundations"
+    grade_band: "K2"
+    books:
+      - book_id: "K2-B1"
+        title: "God Made Everything"
+        summary: "Genesis, creation, Eden, fall, Jesus as light."
+        tags: ["COVENANT", "CREATION", "HEBREW", "IDENTITY"]
+      - book_id: "K2-B2"
+        title: "Phonics of the Promise (Level 1)"
+        summary: "Bible‑based phonics, Hebrew phonemes, creation words."
+        tags: ["LANGUAGE", "HEBREW", "LITERACY"]
+      - book_id: "K2-B3"
+        title: "Numbers in God’s World"
+        summary: "Early math through biblical order: days, patterns, sequences."
+        tags: ["MATH", "CREATION", "ORDER"]
+      - book_id: "K2-B4"
+        title: "God’s World: Science Primer"
+        summary: "Plants, animals, water cycle, light—through Genesis."
+        tags: ["SCIENCE", "STEWARD", "CREATION"]
+      - book_id: "K2-B5"
+        title: "Character Stories: Walk With God"
+        summary: "Kindness, obedience, gratitude, courage, forgiveness."
+        tags: ["CHARACTER", "DISCIPLESHIP", "MERCY"]
+  - arc_id: "ARC2"
+    name: "The Journey"
+    grade_band: "35"
+    books:
+      - book_id: "35-B6"
+        title: "The Great Story of Israel"
+        summary: "From Abraham to Joseph—faith, family, promise."
+        tags: ["COVENANT", "HISTORY", "IDENTITY"]
+      - book_id: "35-B7"
+        title: "Exodus: The God Who Rescues"
+        summary: "Moses, plagues, Passover, wilderness, Ten Commandments."
+        tags: ["EXODUS", "COVENANT", "LAW"]
+      - book_id: "35-B8"
+        title: "Wisdom From Heaven"
+        summary: "Psalms, Proverbs, Ecclesiastes; early logic and discernment."
+        tags: ["WISDOM", "POETRY", "DISCERNMENT"]
+      - book_id: "35-B9"
+        title: "Math & Order in God’s World II"
+        summary: "Multiplication, fractions, geometry through biblical structure."
+        tags: ["MATH", "ORDER"]
+      - book_id: "35-B10"
+        title: "God’s World of Life"
+        summary: "Life sciences: body systems, ecosystems, genetics, God’s design."
+        tags: ["SCIENCE", "BIOLOGY", "STEWARD"]
+  # Define ARC3 and ARC4 similarly as you develop them.
