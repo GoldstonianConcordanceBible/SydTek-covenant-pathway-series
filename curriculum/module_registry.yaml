@@ -1,1 +1,7 @@
 #A registry of modules/lessons with IDs, titles, grade bands, tags, and cross‑links.  This file plays the same role as the chapter registry in the GCB repo.
+#For each book above, assign:
+	•	A unique module_id (e.g., VOL1-BOOK1 or K2-B1).
+	•	title and grade_band.
+	•	tags (from your glossary).
+	•	cross_links pointing to related modules (e.g., Book 1 might link to Book 2 for Hebrew, and to Book 5 for character formation).
+	•	Optionally include a summary and objectives to help LLM routing.
