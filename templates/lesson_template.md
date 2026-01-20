@@ -1,0 +1,1 @@
+#A Markdown template for individual lesson plans, similar to the sermon/guide templates in the GCB repo.  Include fields like Big Idea, Scripture focus, Hebrew keywords, activities, family discussion, GemachAI prompts, etc.
